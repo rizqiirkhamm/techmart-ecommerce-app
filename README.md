@@ -52,7 +52,7 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
 Jika Anda memiliki pertanyaan atau masukan, silakan hubungi kami di:
 
-- Nama Anda: [LinkedIn](https://www.linkedin.com/in/rizqi-irkham-maulana/) / Email: [rizqiirkhammaulana@gmail.com](mailto:rizqiirkhammaulana@gmail.com)
+- Linkedin: [Rizqi-irkham-maulana](https://www.linkedin.com/in/rizqi-irkham-maulana/) / Email: [rizqiirkhammaulana@gmail.com](mailto:rizqiirkhammaulana@gmail.com)
 
 Terima kasih telah mengunjungi proyek ini! Selamat berkontribusi!
 
