@@ -37,12 +37,12 @@ Masuk ke direktori proyek:
 Install dependensi:
   ```
     flutter pub get
-    ```
+  ```
 
 Jalankan aplikasi:
    ```
    flutter run
-    ```
+   ```
     
 ## Lisensi
 
