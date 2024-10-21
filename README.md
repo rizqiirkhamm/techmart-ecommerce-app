@@ -23,23 +23,27 @@ TechMart E-commerce adalah aplikasi mobile yang dirancang untuk memudahkan pengg
 
 Ikuti langkah-langkah di bawah ini untuk menjalankan proyek ini di lingkungan lokal Anda:
 
-1. Clone repository ini:
+Clone repository ini:
 
    ```bash
    git clone https://github.com/rizqiirkhamm/techmart-ecommerce-app.git
 ```
-2. Masuk ke direktori proyek:
+
+Masuk ke direktori proyek:
   ```
     cd techmart-ecommerce-app
   ```
-3. Install dependensi:
+
+Install dependensi:
   ```
     flutter pub get
     ```
-4. Jalankan aplikasi:
+
+Jalankan aplikasi:
    ```
    flutter run
     ```
+    
 ## Lisensi
 
 Proyek ini dilisensikan di bawah [MIT License](LICENSE).
